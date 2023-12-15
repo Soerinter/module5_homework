@@ -1,4 +1,4 @@
-1. const result = +prompt('Введите четное число', '')
+const result = +prompt('Введите четное число', '')
 
 if (typeof +result !== 'number') {
 } else if (isNaN(result % 2)) {
