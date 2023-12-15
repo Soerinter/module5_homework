@@ -1,5 +1,3 @@
-5
-
 const footballClubs = ['Интер', 'Реал', 'МЮ'];
   
 console.log(footballClubs.length)
