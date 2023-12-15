@@ -1,5 +1,3 @@
-2 
-
 let x = undefined;
 
 let res;
