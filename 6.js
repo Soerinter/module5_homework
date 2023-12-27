@@ -1,4 +1,4 @@
- var arr = [4=5, 5, 5, 5];
+ var arr = [5, 5, 5, 5];
 
  function equal (a) {
    for (var b = 0; b < a.length; b++)
